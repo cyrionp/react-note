@@ -1,1 +1,0 @@
-Markdown supported note taking project
